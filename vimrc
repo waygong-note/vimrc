@@ -5,7 +5,7 @@
 "" }}}
 " .vimrc management
 " {{{
-"" ln -s ~/.vimrc <your github/bitbucket local path>/.vimrc
+"" ln -s ~/.vimrc <your github/bitbucket local path>/vimrc
 " }}}
 
 " autocomplete 
