@@ -66,6 +66,9 @@ Plugin 'Shougo/unite.vim'
 "" Shougo/unite.vim: Unite and create user interfaces https://github.com/Shougo/unite.vim
 "" }}}
 Plugin 'tpope/vim-fugitive'
+" vim-orgmode
+Plugin 'tpope/vim-speeddating'
+Plugin 'jceb/vim-orgmode'
 " vimshell 
 Plugin 'Shougo/vimproc.vim'
 Plugin 'Shougo/vimshell.vim'
